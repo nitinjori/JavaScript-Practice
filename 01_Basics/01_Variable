@@ -1,0 +1,19 @@
+const accountId= 1234;
+let accountEmail= "nitin@gmail.com";
+var accountPassword= "1456";
+accountCity="Pune";
+
+
+// accountId= 4321;
+// console.log(accountId);   /not allowed 
+
+
+accountEmail="jorinitin@gmail.com";
+accountPassword="09865";
+accountCity="Mumbai";
+
+console.table([accountId,accountEmail,accountPassword,accountCity]);
+
+
+
+
